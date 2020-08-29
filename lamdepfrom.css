@@ -1,0 +1,7 @@
+body{font-family: sans-serif;}
+
+table{border: 1px solid; margin: 200px 400px; width: 50%; background:#f5f0e7;}
+
+table tr td{padding-bottom: 20px;}
+
+#combobox{width: 230px; height: 23px;}
